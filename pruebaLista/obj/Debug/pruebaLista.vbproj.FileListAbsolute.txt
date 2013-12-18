@@ -9,3 +9,14 @@ C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\pruebaLista\pruebaLista\
 C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\pruebaLista\pruebaLista\obj\Debug\pruebaLista.pdb
 C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\pruebaLista\pruebaLista\bin\Debug\pruebaLista.pdb
 C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\pruebaLista\pruebaLista\bin\Debug\pruebaLista.xml
+C:\Users\Antonio\Work\MN\PruebaListas\pruebaLista\bin\Debug\pruebaLista.exe.config
+C:\Users\Antonio\Work\MN\PruebaListas\pruebaLista\obj\Debug\pruebaLista.exe
+C:\Users\Antonio\Work\MN\PruebaListas\pruebaLista\obj\Debug\pruebaLista.xml
+C:\Users\Antonio\Work\MN\PruebaListas\pruebaLista\obj\Debug\pruebaLista.pdb
+C:\Users\Antonio\Work\MN\PruebaListas\pruebaLista\bin\Debug\pruebaLista.exe
+C:\Users\Antonio\Work\MN\PruebaListas\pruebaLista\bin\Debug\pruebaLista.pdb
+C:\Users\Antonio\Work\MN\PruebaListas\pruebaLista\bin\Debug\pruebaLista.xml
+C:\Users\Antonio\Work\MN\PruebaListas\pruebaLista\obj\Debug\pruebaLista.vbprojResolveAssemblyReference.cache
+C:\Users\Antonio\Work\MN\PruebaListas\pruebaLista\obj\Debug\pruebaLista.Formulario.resources
+C:\Users\Antonio\Work\MN\PruebaListas\pruebaLista\obj\Debug\pruebaLista.Resources.resources
+C:\Users\Antonio\Work\MN\PruebaListas\pruebaLista\obj\Debug\pruebaLista.vbproj.GenerateResource.Cache

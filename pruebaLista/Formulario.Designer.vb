@@ -40,6 +40,7 @@ Partial Class Formulario
         Me.txtUsuarioMysql = New System.Windows.Forms.TextBox()
         Me.dgvPedidos = New System.Windows.Forms.DataGridView()
         Me.dgvProductos = New System.Windows.Forms.DataGridView()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.GroupBox3.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         CType(Me.dgvPedidos, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -238,11 +239,21 @@ Partial Class Formulario
         Me.dgvProductos.Size = New System.Drawing.Size(541, 143)
         Me.dgvProductos.TabIndex = 48
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(208, 325)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(75, 23)
+        Me.Button1.TabIndex = 49
+        Me.Button1.Text = "Button1"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
         'Formulario
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(843, 365)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.dgvProductos)
         Me.Controls.Add(Me.dgvPedidos)
         Me.Controls.Add(Me.GroupBox3)
@@ -276,5 +287,6 @@ Partial Class Formulario
     Friend WithEvents txtUsuarioMysql As System.Windows.Forms.TextBox
     Friend WithEvents dgvPedidos As System.Windows.Forms.DataGridView
     Friend WithEvents dgvProductos As System.Windows.Forms.DataGridView
+    Friend WithEvents Button1 As System.Windows.Forms.Button
 
 End Class

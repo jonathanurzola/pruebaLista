@@ -116,5 +116,6 @@ Module Funciones
         smtp.Credentials = New Net.NetworkCredential("jurzola@mncol.com", "optimusprime1984")
         smtp.Send(message)
     End Sub
+
 #End Region
 End Module

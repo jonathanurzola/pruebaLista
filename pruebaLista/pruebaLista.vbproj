@@ -94,6 +94,8 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Orden.vb" />
+    <Compile Include="Producto.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Formulario.resx">
