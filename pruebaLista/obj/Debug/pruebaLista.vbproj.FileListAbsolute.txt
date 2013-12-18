@@ -20,3 +20,4 @@ C:\Users\Antonio\Work\MN\PruebaListas\pruebaLista\obj\Debug\pruebaLista.vbprojRe
 C:\Users\Antonio\Work\MN\PruebaListas\pruebaLista\obj\Debug\pruebaLista.Formulario.resources
 C:\Users\Antonio\Work\MN\PruebaListas\pruebaLista\obj\Debug\pruebaLista.Resources.resources
 C:\Users\Antonio\Work\MN\PruebaListas\pruebaLista\obj\Debug\pruebaLista.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\pruebaLista\pruebaLista\obj\Debug\pruebaLista.vbprojResolveAssemblyReference.cache
